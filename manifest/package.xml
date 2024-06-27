@@ -144,5 +144,13 @@
 		<members>Booking__c.Select_Start_Date_Available</members>
 		<name>ValidationRule</name>
 	</types>
+    <types>
+		<members>Property__c</members>
+		<members>Review__c</members>
+		<members>User_AirBnB__c</members>
+		<members>Booking__c</members>
+        <members>Favorite__c</members>
+		<name>CustomObject</name>
+	</types>
 	<version>60.0</version>
 </Package>
